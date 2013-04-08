@@ -613,7 +613,7 @@ In this task we will see how we can test the GPS using the emulator:
 
 1. Select the "Location" tab
 
-	![As you can see in the above picture, the panel provides us with a map that is used to simulate ](./Images/As-you-can-see-in-the-above-picture,-the-panel-provides-us-with-a-map-that-is-used-to-simulate-.png?raw=true "As you can see in the above picture, the panel provides us with a map that is used to simulate ")
+	![Working App](./Images/WorkingApp.png?raw=true "Working App")
 
 	As you can see in the above picture, the panel provides us with a map that is used to simulate the device movement. 
 You can simulate movement either by clicking on the map, thus the emulator gets a GPS signal simulating the movement to that location, or by recording data simulating a movement and playing it back to the emulator.
