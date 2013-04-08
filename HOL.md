@@ -47,14 +47,14 @@ The following is required to complete this hands-on lab:
 ## Exercises ##
 This hands-on lab includes the following exercises:
 
-1. [Using Routing Query](#Exercise1)
+1. [Working with Maps](#Exercise1)
 
-1. [Working with the GPS](#Exercise2)
+1. [Using Location Services](#Exercise2)
 
 Estimated time to complete this lab: **at least 60 minutes**.
 
 <a name="Exercise1" />
-## Exercise 1 - Using Routing Query ##
+## Exercise 1 - Working with Maps ##
 
 In this exercise we will use the Map control and the Route Query to create the basics use of the application. In this exercise we will create the single view of this application which contains the map control and a button to start tracking the run.
 Since in the exercise we won't use a real GPS we will simulate some geo coordinate.
@@ -288,7 +288,7 @@ We then create a new wayPoints list and set it to simulate movement between "Sou
 1. You can now run the application. Once run, the first point will be displayed. Clicking the "Start" button will reveal the next point, draw the line between them.
 
 <a name="Exercise2" />
-### Exercise 2 - Working with the GPS ###
+### Exercise 2 - Using Location Services ###
 
  Up until now the application that we created wasn't really working with the GPS hardware but was rather navigating from one pre-known location to another.
 
@@ -306,7 +306,7 @@ We then create a new wayPoints list and set it to simulate movement between "Sou
 
 Let's begin:
 
-1. Open the Begin solution**solution/exercise 2/begin** for this exercise
+1. Open the Begin solution from the **Source/Ex2-LocationServices\Begin** folder for this exercise
 
 1. Locate the WMAppManifest
 
