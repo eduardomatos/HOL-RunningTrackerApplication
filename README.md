@@ -8,7 +8,7 @@ Hands-on labs are sets of step-by-step guides that are designed to help you lear
 
 This lab discusses and demonstrates few important issues: Working with map control, integrating the map with GPS, using the route service and running an application in the background. These capabilities are a major part of many applications and can help you widen your application's features.
 
-> **Note:** You can download the latest build of the Windows Phone 8 Training Kit which includes a tested version of this HOL from here: {training kit download link}
+> **Note:** You can download the latest build of the Windows Phone 8 Training Kit which includes a tested version of this HOL from here: http://go.microsoft.com/fwlink/?LinkID=294667
 
 ### Repository Structure ###
 
